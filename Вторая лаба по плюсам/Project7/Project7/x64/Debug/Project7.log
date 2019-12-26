@@ -1,0 +1,7 @@
+﻿  Source.cpp
+G:\Лабы\Вторая лаба по плюсам\Project7\Project7\Source.cpp(83,1): error C2556: Bit_String operator +(Bit_String &,Bit_String &): перегруженная функция отличается от "Bit_String &operator +(Bit_String &,Bit_String &)" только возвращаемым типом
+G:\Лабы\Вторая лаба по плюсам\Project7\Project7\Header.h(41): message : см. объявление "operator +"
+G:\Лабы\Вторая лаба по плюсам\Project7\Project7\Source.cpp(82,12): error C2040: operator +: "Bit_String (Bit_String &,Bit_String &)" отличается по уровням косвенного обращения от "Bit_String &(Bit_String &,Bit_String &)"
+G:\Лабы\Вторая лаба по плюсам\Project7\Project7\Source.cpp(92,18): error C3078: размер массива должен быть указан в новых выражениях
+G:\Лабы\Вторая лаба по плюсам\Project7\Project7\Source.cpp(208,26): error C2264: operator +: ошибка в определении или объявлении функции; функция не вызвана
+G:\Лабы\Вторая лаба по плюсам\Project7\Project7\Source.cpp(208,23): error C2088: +: недопустимо для class
